@@ -1,0 +1,26 @@
+{
+  "name": "exemplo_mentoria",
+  "version": "1.0.0",
+  "description": "exemplo_mentoria",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thadeucbr/exemplo_mentoria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadeucbr/exemplo_mentoria/issues"
+  },
+  "homepage": "https://github.com/thadeucbr/exemplo_mentoria#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
